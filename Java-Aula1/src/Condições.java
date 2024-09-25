@@ -20,4 +20,4 @@ public class Condições {
  * && = AND
  * || = OR
  * ! = NOT
- */
+ */ 
