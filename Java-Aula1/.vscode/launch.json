@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "Java-Aula1_17c9a032"
+        },
+        {
+            "type": "java",
+            "name": "Condições",
+            "request": "launch",
+            "mainClass": "Condições",
+            "projectName": "Java-Aula1_17c9a032"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernário",
+            "request": "launch",
+            "mainClass": "OperadorTernário",
+            "projectName": "Java-Aula1_17c9a032"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Java-Aula1_17c9a032"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "Java-Aula1_17c9a032"
+        },
+        {
+        "type" : "java",
+        "request" : "launch",
+        "mainClass" : "AboutMe",
+        "args": [
+            "Danilo",
+            "Bellato",
+            "25",
+            "1,75",
+            "verde",
+            "preto"
+        ]
+        }
+    ]
+}
