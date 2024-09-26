@@ -5,22 +5,22 @@ public class AboutMe {
     public static void main (String[] args) {
         Scanner sacnner = new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.println("Meu nome é: ");
+        System.out.println("Qual seu nome ?: ");
         String nome = sacnner.next();
 
-        System.out.println("Meu sobrenome é: ");
+        System.out.println("Qual seu sobrenome ?: ");
         String sobrenome = sacnner.next();
  
-        System.out.println("Minha idade é: ");
+        System.out.println("Qual sua idade ?: ");
         int idade = sacnner.nextInt();
 
-        System.out.println("Minha altura é: ");
+        System.out.println("Qual sua altura ?: ");
         Double altura = sacnner.nextDouble();
 
-        System.out.println("Minhas cores de olhos são: ");
+        System.out.println("Qual sua cor de olhos ?: ");
         String corOlhos = sacnner.next();
 
-        System.out.println("Minhas cores de cabelo são: ");
+        System.out.println("Qual sua cor de cabelo ?: ");
         String corCabelo = sacnner.next();
 
         System.out.println("meu nome é "+ nome + " " + sobrenome + ", minha idade é " + idade + ", minha altura é " + altura + 
