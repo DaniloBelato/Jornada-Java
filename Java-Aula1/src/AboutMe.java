@@ -8,7 +8,7 @@ public class AboutMe {
         System.out.println("Qual seu nome ?: ");
         String nome = sacnner.next();
 
-        System.out.println("Qual seu sobrenome ?: ");
+        System.out.println("Qual aeu sobrenome ?: ");
         String sobrenome = sacnner.next();
  
         System.out.println("Qual sua idade ?: ");
