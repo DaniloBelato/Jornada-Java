@@ -1,7 +1,3 @@
-Aqui está um texto que você pode usar no seu README do GitHub sobre a sua jornada de estudos com Java e Spring Boot na DIO:
-
----
-
 # Minha Jornada de Estudo em Java com Spring Boot na DIO
 
 Bem-vindo ao meu repositório! Este espaço é dedicado a compartilhar minha evolução e aprendizado em **Java** com o framework **Spring Boot**, como parte dos cursos e desafios oferecidos pela plataforma **[DIO](https://dio.me)**.
